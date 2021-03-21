@@ -1,0 +1,138 @@
+/* ========== Green ================
+class name      : .tc-green 
+main color      : #2f7e3e  
+secondary color : #369c49  
+==================================== */ 
+
+.tc-green  a:hover { 
+    color: #2f7e3e;
+}
+.tc-green  .form-control:focus {
+    border-color: #2f7e3e; 
+}
+.tc-green  h1.title-sectionnya {  
+    color: #2f7e3e; 
+}
+.tc-green  .btn-primary { 
+    background-color: #2f7e3e;
+    border: 0px solid #2f7e3e; 
+}
+.tc-green  nav .navbar-header .navbar-brand { 
+    color: #2f7e3e;
+}
+.tc-green  nav .navbar-header .navbar-brand:hover, 
+.tc-green  nav .navbar-header .navbar-brand:focus {
+    color: #2f7e3e;
+}
+.tc-green .navbar-default .navbar-nav > .active > a, 
+.tc-green .navbar-default .navbar-nav > .active > a:hover, 
+.tc-green .navbar-default .navbar-nav > .active > a:focus {
+    color: #2f7e3e;
+}
+.tc-green  section.service .box-on-service:hover  .bs-title .garis-50{
+    background-color:  #2f7e3e;
+}
+.tc-green  section.service .box-on-service .bs-title .garis-50 {
+    background-color: #2f7e3e; 
+}
+.tc-green  section.counter-area .Counter_item .counter-icon  { 
+    color: #2f7e3e; 
+}
+.tc-green  section.latest-news .owl-theme .owl-nav [class*="owl-"]:hover { 
+    background-color: #2f7e3e;
+}
+.tc-green  section.latest-news .box-on-latest-news .bs-img { 
+    border-bottom: 7px solid #2f7e3e; 
+}
+.tc-green  section.latest-news .box-on-latest-news .bs-img .bs-properties{ 
+    background-color: #2f7e3e;
+}
+.tc-green  section.latest-news .box-on-latest-news .bs-title .garis-50 { 
+    background-color: #2f7e3e 
+}
+.tc-green  section.wrap-gallery .filter-button.active{
+    background-color: #2f7e3e; 
+}
+.tc-green  section.wrap-gallery .filter-button:hover {
+    background-color: #2f7e3e; 
+}
+.tc-green  .hovereffect p a {  
+    background-color: #2f7e3e; 
+}
+.tc-green .hovereffect p a:hover {
+	background-color: #ffffff;
+}
+.tc-green  section.contact .btn-primary { 
+    background-color: #2f7e3e;
+    border: 0px solid #2f7e3e;
+}
+.tc-green  section.contact .form-control:focus {
+    border-color: #2f7e3e; 
+    box-shadow: #2f7e3e;
+}
+.tc-green  .back-to-top {
+    background-color: #2f7e3e;
+}
+.tc-green  .style-option-wrap .style-btn-class {
+	background-color: #2f7e3e;
+}
+.tc-green  .btn-primary:hover {
+    background-color: #369c49;
+    color: #ffffff; 
+}
+.tc-green section.inner-page-content .contact-form-content  .btn { 
+    background-color: #2f7e3e;
+}
+.tc-green section.inner-page-content .contact-form-content  .btn:hover {
+    background-color: #369c49;
+}
+.tc-green  section.contact .btn-primary:hover, 
+.tc-green  section.contact .btn-primary:focus, 
+.tc-green  section.contact .btn-primary:active, 
+.tc-green  section.contact .btn-primary.active, 
+.tc-green  section.contact .open .dropdown-toggle.btn-primary {
+    border: 0px solid #369c49;
+    background-color: #369c49;
+}
+.tc-green  .back-to-top.btn-primary:hover, 
+.tc-green  .back-to-top.btn-primary:focus, 
+.tc-green  .back-to-top.btn-primary:active, 
+.tc-green  .back-to-top.btn-primary.active, 
+.tc-green  .open .back-to-top.dropdown-toggle.btn-primary { 
+    background-color:  #369c49; 
+}
+.tc-green  section.footer-content .heading-line::after { 
+    border-bottom: 3px solid #2f7e3e;
+}
+.tc-green section.footer-content a:hover,
+.tc-green section.footer-content .fc-text.fcn-text .la-news a:hover {
+    color:  #2f7e3e;
+}
+.tc-green .page-sidebar .header-sb::after {
+    border-bottom: 3px solid #2f7e3e;
+}
+.tc-green .news-blog-list .wrap-box-news:hover .news-hover-btn { 
+    background-color: #2f7e3e; 
+}
+.tc-green .news-hover-btn { 
+    background-color: #2f7e3e;
+}
+.tc-green  .news-blog-list .wrap-box-news:hover h3 {
+    color: #2f7e3e;
+}
+
+@media screen and (min-width:768px) {
+	.tc-green .navbar-nav li:hover a,
+	.tc-green .navbar-nav li.active a{
+	    border-bottom: 3px solid #2f7e3e;
+	}
+	.tc-green .navbar-nav li:hover ul a {
+	    border-bottom: 0px solid #2f7e3e;
+	}
+}
+
+@media (max-width: 768px) { 
+    .tc-green .news-blog-list .last-text-news {
+    background: #2f7e3e;
+    }
+}

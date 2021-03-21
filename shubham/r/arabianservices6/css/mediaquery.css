@@ -1,0 +1,425 @@
+/**************************************************
+
+Template Name: INDUSTRIAL_ 
+Author: HidraWira
+Version: 1.0
+Design and Developed by: HidraWira
+
+NOTE: This is stylesheet of mediaquery.
+
+**************************************************/
+
+
+/*================================================
+            Table of contents  
+==================================================
+ 
+ 1.  MEDIA MAX 1024
+ 2.  MEDIA MAX 1199
+ 3.  MEDIA MIN 992 
+ 4.  MEDIA MAX 991 
+ 5.  MEDIA MAX 980
+ 6.  MEDIA MAX 960
+ 7.  MEDIA MIN 768 AND MAX 980
+ 8.  MEDIA MAX 768 
+ 9.  MEDIA MIN 768 
+ 10.  MEDIA MAX 767
+ 11. MEDIA MAX 600
+ 12. MEDIA MAX 480
+ 13. MEDIA MAX 480
+
+====================================================
+            End table content 
+===================================================*/
+
+
+
+/*---------- MEDIA MAX 1024 ----------*/
+@media screen and (max-width:1024px) {  
+	section.service .box-on-service .bs-img {
+		height: 240px;
+	}
+	footer .footer-sosmed-area .col-sm-12{
+		width: 100%;
+	}
+}
+/*---------- MEDIA MAX 1199 ----------*/
+@media screen and (max-width:1199px) { 
+	ul.nav.navbar-nav.navbar-right {
+		float: left !important;
+	}
+}
+/*---------- MEDIA MIN 992 ----------*/
+@media screen and (min-width: 992px) {
+	.sb-float-left {
+		float: left;
+	}
+	.sb-float-right {
+		float: right;
+	}
+}
+/*---------- MEDIA MAX 991 ----------*/
+@media screen and (max-width: 991px) {
+    .slide-text h1 {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 20px;
+    }
+    .slide-text > p {
+
+        font-size: 18px;
+    }
+    section.welcome .readmore-welcome  {
+		margin-bottom: 90px;
+	}
+	section.welcome .welcome-left { 
+		display: none; 
+	}
+	.navbar-header {
+		width: 100%; 
+		text-align: center;
+	}
+	.navbar-header .navbar-brand {
+		float: none; float: unset; 
+		text-align: center; 
+		display: block; 
+	}
+	.page-sidebar {
+		margin-top: 50px;
+	}
+	footer .footer-box .footer-icon {
+		width: 100%;
+	}
+	footer .footer-box { 
+	    width: 100%;
+	    margin-bottom: 20px;
+	    text-align: center;
+	} 
+	footer .footer-box .footer-info {
+	    width: 100%;
+	    padding: 10px;
+	}
+	footer .copyright { 
+	    padding: 50px 0px 0px; 
+	}
+	footer .footer-sosmed-area {
+		text-align: center;
+	}
+	footer .footer-sosmed-area  .footer-sosmed-icon {
+		margin-top: 10px;
+	}
+}
+/*---------- MEDIA MAX 980 ----------*/
+@media screen and (max-width:980px) { 
+	section.service .box-on-service .bs-img {
+		height: 180px !important;
+	}
+	footer .footer-box {
+	    clear: both;
+	    width: 100%;
+	}
+	footer .footer-box.copyright .footer-info {
+	    width: 100%;
+	    text-align: center;
+	    font-size: 12px;
+	    margin-top: 20px;
+	}
+}
+/*---------- MEDIA MAX 960 ----------*/
+@media screen and (max-width:960px) {
+	section.welcome .welcomebg{
+	    height: 100%;
+	    position: absolute;
+	    z-index: 2;
+	    background: #fff;
+	    width: 100%;
+	    opacity: 0.7;
+	}
+	section.welcome .under-title-sectionnya { 
+		width: 100%;
+		 }
+	section.welcome .welcomewrap { 
+		padding-top: 50px; 
+	}
+	section.slider {
+		height: 400px;
+	}
+	section.slider .bs-slider {  
+		max-height: 400px; 
+	}
+}
+/*---------- MEDIA MIN 768 AND MAX 980 ----------*/
+@media screen and (min-width:768px) and (max-width:980px) { 
+	section.slider .slide-text {
+		top: 35%;
+	}
+	section.slider .control-round .carousel-control {
+	    top: 55%;
+	}
+}
+/*---------- MEDIA MAX 768 ----------*/
+@media screen and (max-width: 768px) {
+    .slide-text {
+        padding: 10px 50px;
+    }
+    .slide-text h1 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    .slide-text > p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+    section.welcome .readmore-welcome {
+		text-align: center; 
+		width: 100%;
+	}
+	    section.welcome .title-sectionnya {
+	    text-align: center;
+	    padding-bottom: 20px;
+	}
+	    section.welcome .under-title-sectionnya {
+	    width: 90%; margin: 0 auto;
+	}
+	section.welcome .welcomewrap {
+		padding-top: 50px;
+	}
+	section.welcome .welcome-img {
+	    padding: 0px 50px;
+	    width: 60%;
+	    margin: 0 auto;
+	}
+	section.welcome {
+		background-size: 100% 100%;
+	}   
+	section.slider {
+		height: 400px;
+	}
+	section.slider .bs-slider {  
+		max-height: 400px; 
+	}
+	section.latest-news {
+		overflow-x:hidden; 
+	}
+	section.inner-page-content.blog-news-wrap .news-blog-list .col-page{
+		width: 50%;
+		height: 450px;
+		overflow: hidden;
+	}
+}
+/*---------- MEDIA MIN 768 ----------*/
+@media screen and (min-width: 768px) { 
+	.navbar-nav .open ul {
+		display: none
+	}
+	.navbar-default .navbar-nav > .open > a,
+	.navbar-default .navbar-nav > .open > a:hover,
+	.navbar-default .navbar-nav > .open > a:focus {
+		color: #555;
+		background: none
+	}
+	.navbar-default .navbar-nav > li:hover {
+		background: transparent;
+	}
+	.navbar-inverse .navbar-nav > .open > a,
+	.navbar-inverse .navbar-nav > .open > a:hover,
+	.navbar-inverse .navbar-nav > .open > a:focus {
+		color: #969696;
+		background: none
+	}
+	.navbar-inverse .navbar-nav > li:hover {
+		background: #080808
+	}
+	.navbar-nav .hovernav:hover > .dropdown-menu {
+		display: block;
+	}
+	.navbar-nav li:hover a,
+	.navbar-nav li.active a {
+		border-bottom: 3px solid #ff1600;
+		padding-bottom: 12px;
+	}
+	.navbar-nav li:hover ul a {
+		border-bottom: 0px solid #ff1600;
+	}
+}
+/*---------- MEDIA MAX 767 ----------*/
+@media screen and (max-width:767px) { 
+	header .nav > li > a {
+    	padding: 7px 20px;
+	}
+	section.our-partner .owl-carousel {
+	    padding-top: 0px;
+	} 
+	section.wrap-gallery .list-image-gallery .gallery-img-box { 
+	    width: 50%;
+	    padding-bottom: 30%; 
+	} 
+	section.contact .contact-send-button .pull-right {
+		float: none !important;
+		float: unset !important;
+	} 
+	section.contact .contact-send-button {
+		text-align: center;
+	}
+	section.counter-area {
+		padding: 50px 0px;
+	}
+	section.counter-area .Counter_item .counter-icon,
+	section.counter-area .Counter_item .in-counter-item { 
+		line-height: normal; 
+	}
+	section.counter-area .Counter_item { 
+	    width: 100%; margin-bottom: 50px; height: auto;
+	}
+	.navbar-default .navbar-toggle {
+		margin-right: 0px;
+	}
+	section.welcome .under-title-sectionnya {
+	    width: 70%;
+	    text-align: center;
+	    margin-bottom: 40px;
+	}
+	section.service .container.three-box {
+	    margin-top: 0px;
+	}
+	section.service .box-on-service {
+	    margin-bottom: 50px;
+	}
+	section.service .box-on-service .bs-text {
+	    text-align: center; 
+	    width: 70%;
+	    margin: 20px auto;
+	}
+	section.service {
+	    padding: 50px 0px 50px;
+	}
+	section.our-partner h1.title-sectionnya {
+		text-align: center;
+	}
+	section.our-partner {
+		text-align: center;
+	}
+	section.service .box-on-service .bs-img { 
+	    width: 280px;
+	    margin: 0 auto;
+	}
+	section.slider .control-round .carousel-control {
+	    top: 35%; 
+	}
+	section.slider .slide-text {    
+		top: 10%; 
+	}
+	section.slider .in-slider { 
+		top: 50px; 
+	}
+	section.slider {
+	 	height: 300px;
+	}
+	section.slider .bs-slider {  
+		max-height: 300px; 
+	}
+	section.testimonial {
+	    height: auto; 
+	    padding: 80px 0px 80px; 
+	}
+	nav .navbar-header .navbar-brand {
+		position: absolute;
+	} 
+	section.inner-page-content.blog-news-wrap .news-blog-list .col-page {
+	    width: 100%;
+	    height: auto; 
+	}
+	section.inner-page-content.blog-news-wrap .news-hover-btn {
+		display: none;
+	} 
+	section.inner-page-content.blog-news-wrap .news-blog-list .wrap-box-news:hover .first-text-news h3,
+	.news-blog-list .wrap-box-news:hover h3 {
+		color: #333333 !important;
+	}
+	section.inner-page-content.blog-news-wrap .news-blog-list .wrap-box-news .img-news-blog {
+		max-height: 999999px; ;
+	}
+	body#inner-page .title-banner {
+   	    height: 200px;
+   	}
+   	body#inner-page .title-banner .tb-text {
+   		padding: 50px 0px;
+   	}
+}
+/*---------- MEDIA MAX 600 ----------*/
+@media screen and (max-width:600px) {   
+	nav .navbar-header .navbar-brand span { 
+		font-size: 20px; 
+	}
+}
+/*---------- MEDIA MAX 480 ----------*/
+@media screen and (max-width: 480px) {
+    .slide-text {
+        padding: 10px 30px;
+    }
+    .slide-text h1 {
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 5px;
+    }
+    .slide-text > p {
+        font-size: 12px;
+        line-height: 18px;
+        margin-bottom: 10px;
+    }
+    .slide-text > a.btn-default, 
+    .slide-text > a.btn-primary {
+        font-size: 10px;
+        line-height: 10px;
+        margin-right: 10px;
+        text-align: center;
+        padding: 10px 15px;
+    }
+    .indicators-line > .carousel-indicators{
+        display: none;
+    }
+
+}
+/*---------- MEDIA MAX 480 ----------*/
+@media screen and (max-width:480px) { 
+	section.slider {
+		height: 219px;
+	}
+	section.slider .bs-slider {  
+		max-height: 219px; 
+	}
+	nav .navbar-header .navbar-brand span {  
+		float: left;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

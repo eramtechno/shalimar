@@ -1,0 +1,138 @@
+/* ========== Green ================
+class name      : .tc-red-grey
+main color      : #d13f31  
+secondary color : #1a202c  
+==================================== */ 
+
+.tc-red-grey  a:hover { 
+    color: #d13f31;
+}
+.tc-red-grey  .form-control:focus {
+    border-color: #d13f31; 
+}
+.tc-red-grey  h1.title-sectionnya {  
+    color: #d13f31; 
+}
+.tc-red-grey  .btn-primary { 
+    background-color: #d13f31;
+    border: 0px solid #d13f31; 
+}
+.tc-red-grey  nav .navbar-header .navbar-brand { 
+    color: #d13f31;
+}
+.tc-red-grey  nav .navbar-header .navbar-brand:hover, 
+.tc-red-grey  nav .navbar-header .navbar-brand:focus {
+    color: #d13f31;
+}
+.tc-red-grey .navbar-default .navbar-nav > .active > a, 
+.tc-red-grey .navbar-default .navbar-nav > .active > a:hover, 
+.tc-red-grey .navbar-default .navbar-nav > .active > a:focus {
+    color: #d13f31;
+}
+.tc-red-grey  section.service .box-on-service:hover  .bs-title .garis-50{
+    background-color:  #d13f31;
+}
+.tc-red-grey  section.service .box-on-service .bs-title .garis-50 {
+    background-color: #d13f31; 
+}
+.tc-red-grey  section.counter-area .Counter_item .counter-icon  { 
+    color: #d13f31; 
+}
+.tc-red-grey  section.latest-news .owl-theme .owl-nav [class*="owl-"]:hover { 
+    background-color: #d13f31;
+}
+.tc-red-grey  section.latest-news .box-on-latest-news .bs-img { 
+    border-bottom: 7px solid #d13f31; 
+}
+.tc-red-grey  section.latest-news .box-on-latest-news .bs-img .bs-properties{ 
+    background-color: #d13f31;
+}
+.tc-red-grey  section.latest-news .box-on-latest-news .bs-title .garis-50 { 
+    background-color: #d13f31 
+}
+.tc-red-grey  section.wrap-gallery .filter-button.active{
+    background-color: #d13f31; 
+}
+.tc-red-grey  section.wrap-gallery .filter-button:hover {
+    background-color: #d13f31; 
+}
+.tc-red-grey  .hovereffect p a {  
+    background-color: #d13f31; 
+}
+.tc-red-grey .hovereffect p a:hover {
+	background-color: #ffffff;
+}
+.tc-red-grey  section.contact .btn-primary { 
+    background-color: #d13f31;
+    border: 0px solid #d13f31;
+}
+.tc-red-grey  section.contact .form-control:focus {
+    border-color: #d13f31; 
+    box-shadow: #d13f31;
+}
+.tc-red-grey  .back-to-top {
+    background-color: #d13f31;
+}
+.tc-red-grey  .style-option-wrap .style-btn-class {
+	background-color: #d13f31;
+}
+.tc-red-grey  .btn-primary:hover {
+    background-color: #1a202c;
+    color: #ffffff; 
+}
+.tc-red-grey section.inner-page-content .contact-form-content  .btn { 
+    background-color: #d13f31;
+}
+.tc-red-grey section.inner-page-content .contact-form-content  .btn:hover {
+    background-color: #1a202c;
+}
+.tc-red-grey  section.contact .btn-primary:hover, 
+.tc-red-grey  section.contact .btn-primary:focus, 
+.tc-red-grey  section.contact .btn-primary:active, 
+.tc-red-grey  section.contact .btn-primary.active, 
+.tc-red-grey  section.contact .open .dropdown-toggle.btn-primary {
+    border: 0px solid #1a202c;
+    background-color: #1a202c;
+}
+.tc-red-grey  .back-to-top.btn-primary:hover, 
+.tc-red-grey  .back-to-top.btn-primary:focus, 
+.tc-red-grey  .back-to-top.btn-primary:active, 
+.tc-red-grey  .back-to-top.btn-primary.active, 
+.tc-red-grey  .open .back-to-top.dropdown-toggle.btn-primary { 
+    background-color:  #1a202c; 
+}
+.tc-red-grey  section.footer-content .heading-line::after { 
+    border-bottom: 3px solid #d13f31;
+}
+.tc-red-grey section.footer-content a:hover,
+.tc-red-grey section.footer-content .fc-text.fcn-text .la-news a:hover {
+    color:  #d13f31;
+}
+.tc-red-grey .page-sidebar .header-sb::after {
+    border-bottom: 3px solid #d13f31;
+}
+.tc-red-grey .news-blog-list .wrap-box-news:hover .news-hover-btn { 
+    background-color: #d13f31; 
+}
+.tc-red-grey .news-hover-btn { 
+    background-color: #d13f31;
+}
+.tc-red-grey  .news-blog-list .wrap-box-news:hover h3 {
+    color: #d13f31;
+}
+
+@media screen and (min-width:768px) {
+	.tc-red-grey .navbar-nav li:hover a,
+	.tc-red-grey .navbar-nav li.active a{
+	    border-bottom: 3px solid #d13f31;
+	}
+	.tc-red-grey .navbar-nav li:hover ul a {
+	    border-bottom: 0px solid #d13f31;
+	}
+}
+
+@media (max-width: 768px) { 
+    .tc-red-grey .news-blog-list .last-text-news {
+    background: #d13f31;
+    }
+}

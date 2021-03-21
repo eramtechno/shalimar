@@ -1,0 +1,138 @@
+/* ========== Green ================
+class name      : .tc-blue 
+main color      : #0091EA  
+secondary color : #0E689F  
+==================================== */ 
+
+.tc-blue  a:hover { 
+    color: #0091EA;
+}
+.tc-blue  .form-control:focus {
+    border-color: #0091EA; 
+}
+.tc-blue  h1.title-sectionnya {  
+    color: #0091EA; 
+}
+.tc-blue  .btn-primary { 
+    background-color: #0091EA;
+    border: 0px solid #0091EA; 
+}
+.tc-blue  nav .navbar-header .navbar-brand { 
+    color: #0091EA;
+}
+.tc-blue  nav .navbar-header .navbar-brand:hover, 
+.tc-blue  nav .navbar-header .navbar-brand:focus {
+    color: #0091EA;
+}
+.tc-blue .navbar-default .navbar-nav > .active > a, 
+.tc-blue .navbar-default .navbar-nav > .active > a:hover, 
+.tc-blue .navbar-default .navbar-nav > .active > a:focus {
+    color: #0091EA;
+}
+.tc-blue  section.service .box-on-service:hover  .bs-title .garis-50{
+    background-color:  #0091EA;
+}
+.tc-blue  section.service .box-on-service .bs-title .garis-50 {
+    background-color: #0091EA; 
+}
+.tc-blue  section.counter-area .Counter_item .counter-icon  { 
+    color: #0091EA; 
+}
+.tc-blue  section.latest-news .owl-theme .owl-nav [class*="owl-"]:hover { 
+    background-color: #0091EA;
+}
+.tc-blue  section.latest-news .box-on-latest-news .bs-img { 
+    border-bottom: 7px solid #0091EA; 
+}
+.tc-blue  section.latest-news .box-on-latest-news .bs-img .bs-properties{ 
+    background-color: #0091EA;
+}
+.tc-blue  section.latest-news .box-on-latest-news .bs-title .garis-50 { 
+    background-color: #0091EA 
+}
+.tc-blue  section.wrap-gallery .filter-button.active{
+    background-color: #0091EA; 
+}
+.tc-blue  section.wrap-gallery .filter-button:hover {
+    background-color: #0091EA; 
+}
+.tc-blue  .hovereffect p a {  
+    background-color: #0091EA; 
+}
+.tc-blue .hovereffect p a:hover {
+	background-color: #ffffff;
+}
+.tc-blue  section.contact .btn-primary { 
+    background-color: #0091EA;
+    border: 0px solid #0091EA;
+}
+.tc-blue  section.contact .form-control:focus {
+    border-color: #0091EA; 
+    box-shadow: #0091EA;
+}
+.tc-blue  .back-to-top {
+    background-color: #0091EA;
+}
+.tc-blue  .style-option-wrap .style-btn-class {
+	background-color: #0091EA;
+}
+.tc-blue  .btn-primary:hover {
+    background-color: #0E689F;
+    color: #ffffff; 
+}
+.tc-blue section.inner-page-content .contact-form-content  .btn { 
+    background-color: #0091EA;
+}
+.tc-blue section.inner-page-content .contact-form-content  .btn:hover {
+    background-color: #0E689F;
+}
+.tc-blue  section.contact .btn-primary:hover, 
+.tc-blue  section.contact .btn-primary:focus, 
+.tc-blue  section.contact .btn-primary:active, 
+.tc-blue  section.contact .btn-primary.active, 
+.tc-blue  section.contact .open .dropdown-toggle.btn-primary {
+    border: 0px solid #0E689F;
+    background-color: #0E689F;
+}
+.tc-blue  .back-to-top.btn-primary:hover, 
+.tc-blue  .back-to-top.btn-primary:focus, 
+.tc-blue  .back-to-top.btn-primary:active, 
+.tc-blue  .back-to-top.btn-primary.active, 
+.tc-blue  .open .back-to-top.dropdown-toggle.btn-primary { 
+    background-color:  #0E689F; 
+}
+.tc-blue  section.footer-content .heading-line::after { 
+    border-bottom: 3px solid #0091EA;
+}
+.tc-blue section.footer-content a:hover,
+.tc-blue section.footer-content .fc-text.fcn-text .la-news a:hover {
+    color:  #0091EA;
+}
+.tc-blue .page-sidebar .header-sb::after {
+    border-bottom: 3px solid #0091EA;
+}
+.tc-blue .news-blog-list .wrap-box-news:hover .news-hover-btn { 
+    background-color: #0091EA; 
+}
+.tc-blue .news-hover-btn { 
+    background-color: #0091EA;
+}
+.tc-blue  .news-blog-list .wrap-box-news:hover h3 {
+    color: #0091EA;
+}
+
+@media screen and (min-width:768px) {
+	.tc-blue .navbar-nav li:hover a,
+	.tc-blue .navbar-nav li.active a{
+	    border-bottom: 3px solid #0091EA;
+	}
+	.tc-blue .navbar-nav li:hover ul a {
+	    border-bottom: 0px solid #0091EA;
+	}
+}
+
+@media (max-width: 768px) { 
+    .tc-blue .news-blog-list .last-text-news {
+    background: #0091EA;
+    }
+}

@@ -1,0 +1,138 @@
+/* ========== Green ================
+class name      : .tc-blue-sea
+main color      : #2b475e  
+secondary color : #00ADF1  
+==================================== */ 
+
+.tc-blue-sea   a:hover { 
+    color: #2b475e;
+}
+.tc-blue-sea   .form-control:focus {
+    border-color: #2b475e; 
+}
+.tc-blue-sea   h1.title-sectionnya {  
+    color: #2b475e; 
+}
+.tc-blue-sea   .btn-primary { 
+    background-color: #2b475e;
+    border: 0px solid #2b475e; 
+}
+.tc-blue-sea   nav .navbar-header .navbar-brand { 
+    color: #2b475e;
+}
+.tc-blue-sea   nav .navbar-header .navbar-brand:hover, 
+.tc-blue-sea   nav .navbar-header .navbar-brand:focus {
+    color: #2b475e;
+}
+.tc-blue-sea  .navbar-default .navbar-nav > .active > a, 
+.tc-blue-sea  .navbar-default .navbar-nav > .active > a:hover, 
+.tc-blue-sea  .navbar-default .navbar-nav > .active > a:focus {
+    color: #2b475e;
+}
+.tc-blue-sea   section.service .box-on-service:hover  .bs-title .garis-50{
+    background-color:  #2b475e;
+}
+.tc-blue-sea   section.service .box-on-service .bs-title .garis-50 {
+    background-color: #2b475e; 
+}
+.tc-blue-sea   section.counter-area .Counter_item .counter-icon  { 
+    color: #2b475e; 
+}
+.tc-blue-sea   section.latest-news .owl-theme .owl-nav [class*="owl-"]:hover { 
+    background-color: #2b475e;
+}
+.tc-blue-sea   section.latest-news .box-on-latest-news .bs-img { 
+    border-bottom: 7px solid #2b475e; 
+}
+.tc-blue-sea   section.latest-news .box-on-latest-news .bs-img .bs-properties{ 
+    background-color: #2b475e;
+}
+.tc-blue-sea   section.latest-news .box-on-latest-news .bs-title .garis-50 { 
+    background-color: #2b475e 
+}
+.tc-blue-sea   section.wrap-gallery .filter-button.active{
+    background-color: #2b475e; 
+}
+.tc-blue-sea   section.wrap-gallery .filter-button:hover {
+    background-color: #2b475e; 
+}
+.tc-blue-sea   .hovereffect p a {  
+    background-color: #2b475e; 
+}
+.tc-blue-sea  .hovereffect p a:hover {
+	background-color: #ffffff;
+}
+.tc-blue-sea   section.contact .btn-primary { 
+    background-color: #2b475e;
+    border: 0px solid #2b475e;
+}
+.tc-blue-sea   section.contact .form-control:focus {
+    border-color: #2b475e; 
+    box-shadow: #2b475e;
+}
+.tc-blue-sea   .back-to-top {
+    background-color: #2b475e;
+}
+.tc-blue-sea   .style-option-wrap .style-btn-class {
+	background-color: #2b475e;
+}
+.tc-blue-sea   .btn-primary:hover {
+    background-color: #00ADF1;
+    color: #ffffff; 
+}
+.tc-blue-sea  section.inner-page-content .contact-form-content  .btn { 
+    background-color: #2b475e;
+}
+.tc-blue-sea  section.inner-page-content .contact-form-content  .btn:hover {
+    background-color: #00ADF1;
+}
+.tc-blue-sea   section.contact .btn-primary:hover, 
+.tc-blue-sea   section.contact .btn-primary:focus, 
+.tc-blue-sea   section.contact .btn-primary:active, 
+.tc-blue-sea   section.contact .btn-primary.active, 
+.tc-blue-sea   section.contact .open .dropdown-toggle.btn-primary {
+    border: 0px solid #00ADF1;
+    background-color: #00ADF1;
+}
+.tc-blue-sea   .back-to-top.btn-primary:hover, 
+.tc-blue-sea   .back-to-top.btn-primary:focus, 
+.tc-blue-sea   .back-to-top.btn-primary:active, 
+.tc-blue-sea   .back-to-top.btn-primary.active, 
+.tc-blue-sea   .open .back-to-top.dropdown-toggle.btn-primary { 
+    background-color:  #00ADF1; 
+}
+.tc-blue-sea   section.footer-content .heading-line::after { 
+    border-bottom: 3px solid #2b475e;
+}
+.tc-blue-sea  section.footer-content a:hover,
+.tc-blue-sea  section.footer-content .fc-text.fcn-text .la-news a:hover {
+    color:  #2b475e;
+}
+.tc-blue-sea  .page-sidebar .header-sb::after {
+    border-bottom: 3px solid #2b475e;
+}
+.tc-blue-sea  .news-blog-list .wrap-box-news:hover .news-hover-btn { 
+    background-color: #2b475e; 
+}
+.tc-blue-sea  .news-hover-btn { 
+    background-color: #2b475e;
+}
+.tc-blue-sea   .news-blog-list .wrap-box-news:hover h3 {
+    color: #2b475e;
+}
+
+@media screen and (min-width:768px) {
+	.tc-blue-sea  .navbar-nav li:hover a,
+	.tc-blue-sea  .navbar-nav li.active a{
+	    border-bottom: 3px solid #2b475e;
+	}
+	.tc-blue-sea  .navbar-nav li:hover ul a {
+	    border-bottom: 0px solid #2b475e;
+	}
+}
+
+@media (max-width: 768px) { 
+    .tc-blue-sea  .news-blog-list .last-text-news {
+    background: #2b475e;
+    }
+}

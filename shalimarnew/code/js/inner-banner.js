@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){$('#innerBanners').nivoSlider({effect:'boxRainGrow',slices:15,boxCols:18,boxRows:9,animSpeed:750,pauseTime:5000,startSlide:0,directionNav:true,controlNav:false,controlNavThumbs:false,pauseOnHover:false,prevText:'<span class="pre-btn"></span>',nextText:'<span class="nxt-btn"></span>',});});

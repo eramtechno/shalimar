@@ -1,0 +1,138 @@
+/* ========== Green ================
+class name      : .tc-yellow 
+main color      : #ffc706  
+secondary color : #e4b926  
+==================================== */ 
+
+.tc-yellow   a:hover { 
+    color: #ffc706;
+}
+.tc-yellow   .form-control:focus {
+    border-color: #ffc706; 
+}
+.tc-yellow   h1.title-sectionnya {  
+    color: #ffc706; 
+}
+.tc-yellow   .btn-primary { 
+    background-color: #ffc706;
+    border: 0px solid #ffc706; 
+}
+.tc-yellow   nav .navbar-header .navbar-brand { 
+    color: #ffc706;
+}
+.tc-yellow   nav .navbar-header .navbar-brand:hover, 
+.tc-yellow   nav .navbar-header .navbar-brand:focus {
+    color: #ffc706;
+}
+.tc-yellow  .navbar-default .navbar-nav > .active > a, 
+.tc-yellow  .navbar-default .navbar-nav > .active > a:hover, 
+.tc-yellow  .navbar-default .navbar-nav > .active > a:focus {
+    color: #ffc706;
+}
+.tc-yellow   section.service .box-on-service:hover  .bs-title .garis-50{
+    background-color:  #ffc706;
+}
+.tc-yellow   section.service .box-on-service .bs-title .garis-50 {
+    background-color: #ffc706; 
+}
+.tc-yellow   section.counter-area .Counter_item .counter-icon  { 
+    color: #ffc706; 
+}
+.tc-yellow   section.latest-news .owl-theme .owl-nav [class*="owl-"]:hover { 
+    background-color: #ffc706;
+}
+.tc-yellow   section.latest-news .box-on-latest-news .bs-img { 
+    border-bottom: 7px solid #ffc706; 
+}
+.tc-yellow   section.latest-news .box-on-latest-news .bs-img .bs-properties{ 
+    background-color: #ffc706;
+}
+.tc-yellow   section.latest-news .box-on-latest-news .bs-title .garis-50 { 
+    background-color: #ffc706 
+}
+.tc-yellow   section.wrap-gallery .filter-button.active{
+    background-color: #ffc706; 
+}
+.tc-yellow   section.wrap-gallery .filter-button:hover {
+    background-color: #ffc706; 
+}
+.tc-yellow   .hovereffect p a {  
+    background-color: #ffc706; 
+}
+.tc-yellow  .hovereffect p a:hover {
+	background-color: #ffffff;
+}
+.tc-yellow   section.contact .btn-primary { 
+    background-color: #ffc706;
+    border: 0px solid #ffc706;
+}
+.tc-yellow   section.contact .form-control:focus {
+    border-color: #ffc706; 
+    box-shadow: #ffc706;
+}
+.tc-yellow   .back-to-top {
+    background-color: #ffc706;
+}
+.tc-yellow   .style-option-wrap .style-btn-class {
+	background-color: #ffc706;
+}
+.tc-yellow   .btn-primary:hover {
+    background-color: #e4b926;
+    color: #ffffff; 
+}
+.tc-yellow  section.inner-page-content .contact-form-content  .btn { 
+    background-color: #ffc706;
+}
+.tc-yellow  section.inner-page-content .contact-form-content  .btn:hover {
+    background-color: #e4b926;
+}
+.tc-yellow   section.contact .btn-primary:hover, 
+.tc-yellow   section.contact .btn-primary:focus, 
+.tc-yellow   section.contact .btn-primary:active, 
+.tc-yellow   section.contact .btn-primary.active, 
+.tc-yellow   section.contact .open .dropdown-toggle.btn-primary {
+    border: 0px solid #e4b926;
+    background-color: #e4b926;
+}
+.tc-yellow   .back-to-top.btn-primary:hover, 
+.tc-yellow   .back-to-top.btn-primary:focus, 
+.tc-yellow   .back-to-top.btn-primary:active, 
+.tc-yellow   .back-to-top.btn-primary.active, 
+.tc-yellow   .open .back-to-top.dropdown-toggle.btn-primary { 
+    background-color:  #e4b926; 
+}
+.tc-yellow   section.footer-content .heading-line::after { 
+    border-bottom: 3px solid #ffc706;
+}
+.tc-yellow  section.footer-content a:hover,
+.tc-yellow  section.footer-content .fc-text.fcn-text .la-news a:hover {
+    color:  #ffc706;
+}
+.tc-yellow  .page-sidebar .header-sb::after {
+    border-bottom: 3px solid #ffc706;
+}
+.tc-yellow  .news-blog-list .wrap-box-news:hover .news-hover-btn { 
+    background-color: #ffc706; 
+}
+.tc-yellow  .news-hover-btn { 
+    background-color: #ffc706;
+}
+.tc-yellow   .news-blog-list .wrap-box-news:hover h3 {
+    color: #ffc706;
+}
+
+@media screen and (min-width:768px) {
+	.tc-yellow  .navbar-nav li:hover a,
+	.tc-yellow  .navbar-nav li.active a{
+	    border-bottom: 3px solid #ffc706;
+	}
+	.tc-yellow  .navbar-nav li:hover ul a {
+	    border-bottom: 0px solid #ffc706;
+	}
+}
+
+@media (max-width: 768px) { 
+    .tc-yellow  .news-blog-list .last-text-news {
+    background: #ffc706;
+    }
+}

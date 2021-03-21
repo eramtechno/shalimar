@@ -1,0 +1,138 @@
+/* ========== Green ================
+class name      : .tc-purple 
+main color      : #8c1d86  
+secondary color : #771071  
+==================================== */ 
+
+.tc-purple   a:hover { 
+    color: #8c1d86;
+}
+.tc-purple   .form-control:focus {
+    border-color: #8c1d86; 
+}
+.tc-purple   h1.title-sectionnya {  
+    color: #8c1d86; 
+}
+.tc-purple   .btn-primary { 
+    background-color: #8c1d86;
+    border: 0px solid #8c1d86; 
+}
+.tc-purple   nav .navbar-header .navbar-brand { 
+    color: #8c1d86;
+}
+.tc-purple   nav .navbar-header .navbar-brand:hover, 
+.tc-purple   nav .navbar-header .navbar-brand:focus {
+    color: #8c1d86;
+}
+.tc-purple  .navbar-default .navbar-nav > .active > a, 
+.tc-purple  .navbar-default .navbar-nav > .active > a:hover, 
+.tc-purple  .navbar-default .navbar-nav > .active > a:focus {
+    color: #8c1d86;
+}
+.tc-purple   section.service .box-on-service:hover  .bs-title .garis-50{
+    background-color:  #8c1d86;
+}
+.tc-purple   section.service .box-on-service .bs-title .garis-50 {
+    background-color: #8c1d86; 
+}
+.tc-purple   section.counter-area .Counter_item .counter-icon  { 
+    color: #8c1d86; 
+}
+.tc-purple   section.latest-news .owl-theme .owl-nav [class*="owl-"]:hover { 
+    background-color: #8c1d86;
+}
+.tc-purple   section.latest-news .box-on-latest-news .bs-img { 
+    border-bottom: 7px solid #8c1d86; 
+}
+.tc-purple   section.latest-news .box-on-latest-news .bs-img .bs-properties{ 
+    background-color: #8c1d86;
+}
+.tc-purple   section.latest-news .box-on-latest-news .bs-title .garis-50 { 
+    background-color: #8c1d86 
+}
+.tc-purple   section.wrap-gallery .filter-button.active{
+    background-color: #8c1d86; 
+}
+.tc-purple   section.wrap-gallery .filter-button:hover {
+    background-color: #8c1d86; 
+}
+.tc-purple   .hovereffect p a {  
+    background-color: #8c1d86; 
+}
+.tc-purple  .hovereffect p a:hover {
+	background-color: #ffffff;
+}
+.tc-purple   section.contact .btn-primary { 
+    background-color: #8c1d86;
+    border: 0px solid #8c1d86;
+}
+.tc-purple   section.contact .form-control:focus {
+    border-color: #8c1d86; 
+    box-shadow: #8c1d86;
+}
+.tc-purple   .back-to-top {
+    background-color: #8c1d86;
+}
+.tc-purple   .style-option-wrap .style-btn-class {
+	background-color: #8c1d86;
+}
+.tc-purple   .btn-primary:hover {
+    background-color: #771071;
+    color: #ffffff; 
+}
+.tc-purple  section.inner-page-content .contact-form-content  .btn { 
+    background-color: #8c1d86;
+}
+.tc-purple  section.inner-page-content .contact-form-content  .btn:hover {
+    background-color: #771071;
+}
+.tc-purple   section.contact .btn-primary:hover, 
+.tc-purple   section.contact .btn-primary:focus, 
+.tc-purple   section.contact .btn-primary:active, 
+.tc-purple   section.contact .btn-primary.active, 
+.tc-purple   section.contact .open .dropdown-toggle.btn-primary {
+    border: 0px solid #771071;
+    background-color: #771071;
+}
+.tc-purple   .back-to-top.btn-primary:hover, 
+.tc-purple   .back-to-top.btn-primary:focus, 
+.tc-purple   .back-to-top.btn-primary:active, 
+.tc-purple   .back-to-top.btn-primary.active, 
+.tc-purple   .open .back-to-top.dropdown-toggle.btn-primary { 
+    background-color:  #771071; 
+}
+.tc-purple   section.footer-content .heading-line::after { 
+    border-bottom: 3px solid #8c1d86;
+}
+.tc-purple  section.footer-content a:hover,
+.tc-purple  section.footer-content .fc-text.fcn-text .la-news a:hover {
+    color:  #8c1d86;
+}
+.tc-purple  .page-sidebar .header-sb::after {
+    border-bottom: 3px solid #8c1d86;
+}
+.tc-purple  .news-blog-list .wrap-box-news:hover .news-hover-btn { 
+    background-color: #8c1d86; 
+}
+.tc-purple  .news-hover-btn { 
+    background-color: #8c1d86;
+}
+.tc-purple   .news-blog-list .wrap-box-news:hover h3 {
+    color: #8c1d86;
+}
+
+@media screen and (min-width:768px) {
+	.tc-purple  .navbar-nav li:hover a,
+	.tc-purple  .navbar-nav li.active a{
+	    border-bottom: 3px solid #8c1d86;
+	}
+	.tc-purple  .navbar-nav li:hover ul a {
+	    border-bottom: 0px solid #8c1d86;
+	}
+}
+
+@media (max-width: 768px) { 
+    .tc-purple  .news-blog-list .last-text-news {
+    background: #8c1d86;
+    }
+}
